@@ -1,7 +1,7 @@
 # 💸 La Verdad de tu Sueldo | Auditoría de Vida 01
 **¿Cuánto vale realmente tu hora de vida después de pagar por trabajar?**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](TU_URL_AQUI)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://calculadora-salario-real-1.streamlit.app/)
 
 ## 🎯 Objetivo
 Esta Micro-App interactiva está diseñada para desmantelar la ilusión del salario mensual neto. A través de un análisis de "gastos ocultos" y "tiempo fantasma", calculamos tu **Salario Real por Hora**.
