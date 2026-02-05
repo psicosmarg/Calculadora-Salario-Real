@@ -14,6 +14,15 @@ st.markdown("""
     .stAlert { background-color: #161b22; border: 1px solid #00f2ff; color: #ffffff; }
     </style>
     """, unsafe_allow_html=True)
+st.markdown(
+    """
+    <div style='text-align: center; color: #00f2ff; font-family: sans-serif;'>
+        <p style='font-size: 0.8rem;'>Desarrollado con 🐍 <b>Python</b> por <b>Osmar Gutierrez</b></p>
+        <p style='font-size: 0.7rem; color: #555;'>© 2026 Código Humano | Todos los derechos reservados</p>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
 
 # --- BARRA LATERAL: INPUTS ---
 with st.sidebar:
