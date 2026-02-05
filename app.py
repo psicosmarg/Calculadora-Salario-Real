@@ -98,4 +98,4 @@ fig.update_layout(
 st.plotly_chart(fig, use_container_width=True)
 
 # Footer
-st.caption("Cálculo basado en el tiempo fantasma semanal y gastos operativos de oficina. Código Humano 2026.")
+st.caption("Desarrollado por Jesus Osmar Gutierrez Fernandez con Python & Streamlit 🐍")
